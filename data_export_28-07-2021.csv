@@ -1,0 +1,46 @@
+janeiro;alimentos;"Pão de forma";100
+janeiro;alimentos;Nutella;50
+janeiro;alimentos;Arroz;200
+janeiro;alimentos;Feijão;150
+janeiro;limpeza;"Veja multiuso";50
+janeiro;limpeza;"Sabao em po";50
+janeiro;limpeza;Desinfetante;100
+janeiro;higiene_pessoal;"Creme dental";500
+janeiro;higiene_pessoal;"Sabonete Protex";500
+janeiro;higiene_pessoal;"Escova de dente";500
+janeiro;higiene_pessoal;"Papel Hignico";1000
+marco;alimentos;Ovos;1200
+marco;alimentos;Iogurte;500
+marco;alimentos;"Pasta de Amendoim";500
+marco;limpeza;Detergente;100
+marco;limpeza;"Sabao em po";100
+marco;higiene_pessoal;"Enxaguante bocal";500
+maio;alimentos;Brocolis;1000
+maio;alimentos;Tomate;1000
+maio;alimentos;Morango;10001
+maio;alimentos;Berinjela;100
+maio;alimentos;Pepino;100
+maio;alimentos;"Arroz integral";500
+maio;alimentos;Feijão;500
+maio;alimentos;"Filé de frango";500
+maio;alimentos;"Leite desnatado";2000
+maio;limpeza;"Diabo verde";100
+maio;limpeza;MOP;100
+maio;higiene_pessoal;Protex;500
+maio;higiene_pessoal;"Papel Hignico";500
+maio;higiene_pessoal;Shampoo;500
+fevereiro;alimentos;"Pão de forma";50
+fevereiro;alimentos;"Queijo minas";50
+fevereiro;alimentos;"Geléria de morango";250
+fevereiro;limpeza;"Pano de chão";300
+fevereiro;limpeza;Rodo;301
+fevereiro;higiene_pessoal;"Creme dental";500
+fevereiro;higiene_pessoal;"Sabonete Dove";500
+fevereiro;higiene_pessoal;"Papel Hignico";1000
+abril;alimentos;Doritos;50
+abril;alimentos;"Chocolate ao leit";100
+abril;alimentos;"Filé Mignon";350
+abril;limpeza;"Esponja de aço";100
+abril;higiene_pessoal;"Fio dental";500
+abril;higiene_pessoal;"Escova de dente";500
+abril;higiene_pessoal;"Creme dental";500
